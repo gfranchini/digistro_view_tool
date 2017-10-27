@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DigistroViewTool::Renderer.copyright('Giancarlo Franchini', 'All rights reserved')
+```
 
 ## Development
 
